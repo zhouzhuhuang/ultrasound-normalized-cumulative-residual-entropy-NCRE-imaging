@@ -2,7 +2,7 @@
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](LICENSE.txt)
 
-## Please see the following paper for the alogrithm of ultrasound normalized cumulative residual entropy imaging
+## Please see the following paper for the algorithm of ultrasound normalized cumulative residual entropy imaging
 
 Ruiyang Gao, Po-Hsiang Tsui, Sinan Li, Guangyu Bin, Dar-In Tai, Shuicai Wu, Zhuhuang Zhou,
 Ultrasound normalized cumulative residual entropy imaging: Theory, methodology, and application,
